@@ -38,3 +38,7 @@
 - model: Includes model files for training and conversion.
 
 - train: Stores scripts for model training using Keras.
+
+### Acknowledgment 🧐
+
+Many thanks to [STM32 AI Model Zoo](https://github.com/STMicroelectronics/stm32ai-modelzoo) by STMicroelectronics for their valuable work!
