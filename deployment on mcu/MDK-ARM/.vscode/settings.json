@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "network.h": "c",
+        "main.h": "c",
+        "usart.h": "c",
+        "app_x-cube-ai.h": "c",
+        "ai_datatypes_defines.h": "c",
+        "lcd_image.h": "c",
+        "lcd_fonts.h": "c",
+        "lcd_spi_200.h": "c",
+        "sdram.h": "c",
+        "stm32h7xx_hal.h": "c",
+        "dcmi_ov5640.h": "c",
+        "ai_platform.h": "c",
+        "layers.h": "c",
+        "network_data.h": "c",
+        "stdint.h": "c"
+    }
+}
