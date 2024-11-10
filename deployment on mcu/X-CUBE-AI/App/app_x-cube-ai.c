@@ -197,12 +197,7 @@ ai_i8 *data_outs[AI_NETWORK_OUT_NUM] = {
 
         return 0;
     }
-
-    float max_conf = 0.0;
-    int _xmin = 0;
-    int _ymin = 0;
-    int _xmax = 0;
-    int _ymax = 0;
+    
 
     PP_OUT_t target[AI_OBJDETECT_SSD_ST_PP_MAX_BOXES_LIMIT];
     PP_OUT_t detections[AI_OBJDETECT_SSD_ST_PP_MAX_PORCESS_LIMIT];

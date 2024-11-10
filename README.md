@@ -2,8 +2,10 @@
 
 *An interesting project. Deploying SSD Object Detection Models on the STM32*
 
+**I will soon be updating a specific introduction video on Bilibili.**
+**Looking forward to your support!**
 
-### Describption 🥽
+### 👑 Describption
 
 #### 🎉Model
 
@@ -31,7 +33,7 @@
 - Infer Cost (Excluding postprocess): 190 ms
 
 
-### Folder Structure 📂
+### 📂 Folder Structure
 
 - deployment on mcu: Contains code and files for deploying the SSD model on STM32.
 
@@ -39,6 +41,6 @@
 
 - train: Stores scripts for model training using Keras.
 
-### Acknowledgment 🧐
+### 🧐 Acknowledgment
 
 Many thanks to [STM32 AI Model Zoo](https://github.com/STMicroelectronics/stm32ai-modelzoo) by STMicroelectronics for their valuable work!
